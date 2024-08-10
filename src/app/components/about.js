@@ -8,6 +8,7 @@ export default function About() {
             <Link href={"/pages/about"}>
                 About
             </Link>
+            
             <br />
             <Link href={"/pages/contact"}>
                 Contact
